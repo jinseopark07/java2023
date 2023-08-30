@@ -2,7 +2,7 @@ package j0629;
 
 public class Radio implements Sound{
 	private int R_Sound;
-	
+	//rlrlrlr
 	@Override
 	public void SoundUP(int level) {
 		// TODO Auto-generated method stub
